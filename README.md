@@ -196,5 +196,3 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [issues-url]: https://github.com/bluehydrarblx-dev/rTyphoeusSploit/issues
 [license-shield]: https://img.shields.io/github/license/bluehydrarblx-dev/rTyphoeusSploit.svg?style=for-the-badge
 [license-url]: https://github.com/bluehydrarblx-dev/rTyphoeusSploit/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
